@@ -1,10 +1,16 @@
 ### 유튜브 내용 요약 프로그램
 
-![image](https://github.com/i-am-shuan/youtube-sumerize-app/assets/161431602/ebca1eb4-de95-4c99-8b73-467eb4f2ba69)
+<p align="center">
+	<img src = "https://github.com/i-am-shuan/youtube-sumerize-app/assets/161431602/ebca1eb4-de95-4c99-8b73-467eb4f2ba69" width="80%" height="80%">
+</p>
 
-![image](https://github.com/i-am-shuan/youtube-sumerize-app/assets/161431602/ac6c2ce9-d1bf-4b9e-8f7d-df3c9fb3c0e1)
+---
 
-![image](https://github.com/i-am-shuan/youtube-sumerize-app/assets/161431602/f1676062-80a4-4464-82fb-961a5cbf99c0)
+<p align="center">
+	<img src = "https://github.com/i-am-shuan/youtube-sumerize-app/assets/161431602/ac6c2ce9-d1bf-4b9e-8f7d-df3c9fb3c0e1" width="50%" height="50%">
+	<img src = "https://github.com/i-am-shuan/youtube-sumerize-app/assets/161431602/f1676062-80a4-4464-82fb-961a5cbf99c0" width="50%" height="50%">
+</p>
+
 
 - 특징
 	- max token을 넘어가는 긴 글(유튜브 대본)을 요약한다.
