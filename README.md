@@ -1,4 +1,5 @@
 ### 유튜브 내용 요약 프로그램
+- service url: youtube-sumerize-app.streamlit.app
 - app ui: streamlit
 - openai api / gpt-3.5-turbo
 - langchain
