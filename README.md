@@ -1,5 +1,10 @@
 ### 유튜브 내용 요약 프로그램
 
+- app ui: streamlit
+- openai api / gpt-3.5-turbo
+
+---
+
 <p align="center">
 	<img src = "https://github.com/i-am-shuan/youtube-sumerize-app/assets/161431602/ebca1eb4-de95-4c99-8b73-467eb4f2ba69" width="80%" height="80%">
 </p>
