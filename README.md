@@ -1,18 +1,26 @@
 ### 유튜브 내용 요약 프로그램
-
 - app ui: streamlit
 - openai api / gpt-3.5-turbo
+- langchain
 
 ---
 
+##### 서비스 화면
 <p align="center">
 	<img src = "https://github.com/i-am-shuan/youtube-sumerize-app/assets/161431602/ebca1eb4-de95-4c99-8b73-467eb4f2ba69" width="80%" height="80%">
 </p>
 
 ---
 
+##### 서비스 흐름도
 <p align="center">
 	<img src = "https://github.com/i-am-shuan/youtube-sumerize-app/assets/161431602/ac6c2ce9-d1bf-4b9e-8f7d-df3c9fb3c0e1" width="50%" height="50%">
+</p>
+
+---
+
+##### 긴 문서를 요약하는 절차
+<p align="center">
 	<img src = "https://github.com/i-am-shuan/youtube-sumerize-app/assets/161431602/f1676062-80a4-4464-82fb-961a5cbf99c0" width="50%" height="50%">
 </p>
 
