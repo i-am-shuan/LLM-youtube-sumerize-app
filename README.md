@@ -16,6 +16,7 @@
 	<img src = "https://github.com/i-am-shuan/youtube-sumerize-app/assets/161431602/f1676062-80a4-4464-82fb-961a5cbf99c0" width="50%" height="50%">
 </p>
 
+---
 
 - 특징
 	- max token을 넘어가는 긴 글(유튜브 대본)을 요약한다.
